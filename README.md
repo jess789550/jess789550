@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on NHS bioinformatics pipeline and apps
 - 🌱 I’m currently learning WDL, DNAnexus, and Flask
 - 👯 I’m looking to collaborate on ONT, PacBio, and RNAseq
-- 🤔 I’m looking for help with the final year assessment for the NHS STP
+- 🤔 I’m looking for help with TMB tools
 - 💬 Ask me about the NHS STP or STP perspectives blog
 - 📫 How to reach me: LinkedIn
 - 😄 Pronouns: she/her
