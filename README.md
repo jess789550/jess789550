@@ -1,10 +1,10 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on NHS bioinformatics pipeline and apps
-- 🌱 I’m currently learning WDL, DNAnexus, and Flask
+- 🌱 I’m currently learning WDL and DNAnexus
 - 👯 I’m looking to collaborate on ONT, PacBio, and RNAseq
-- 🤔 I’m looking for help with TMB tools
-- 💬 Ask me about the NHS STP or STP perspectives blog
+- 🤔 I’m looking for help with Machine Learning
+- 💬 Ask me about the NHS STP
 - 📫 How to reach me: LinkedIn
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I've done 11 letters of the ParkRun alphabet
