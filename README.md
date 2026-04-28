@@ -7,7 +7,7 @@
 - 💬 Ask me about the NHS STP
 - 📫 How to reach me: LinkedIn
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I've done 15 letters of the ParkRun alphabet
+- ⚡ Fun fact: I've done 16 letters of the ParkRun alphabet
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=jess789550)](https://github.com/ryo-ma/github-profile-trophy)
 
