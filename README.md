@@ -9,6 +9,8 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I've done 21 letters of the ParkRun alphabet
 
+<details markdown="1"><summary>Trophies</summary>
 [![trophy](https://github-profile-trophy.vercel.app/?username=jess789550)](https://github.com/ryo-ma/github-profile-trophy)
+</details>
 
 https://jess789550.github.io/
